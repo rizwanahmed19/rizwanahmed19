@@ -46,9 +46,10 @@ Hi, I'm Rizwan Ahmed, a Full Stack Developer 🚀 from Karachi, Pakistan, Curren
 <img align="left" alt="Postgresql" height="25" title="postgresql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png" />
 
 <br />
+<br />
 
 ![Rizwan's github stats](https://github-readme-stats.vercel.app/api?username=rizwanahmed19&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical)
 
-</br>
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmed19&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rizwanahmed19/github-readme-stats)
