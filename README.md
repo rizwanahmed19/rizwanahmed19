@@ -21,7 +21,9 @@
 
 Hi, I'm Rizwan Ahmed, a Full Stack Developer 🚀 from Karachi, Pakistan, Currently, I'm working as Senior Software Engineer [@voxlabsio](https://voxlabs.io). When I'm not writing code, I'm usually traveling 🚗, hanging out with friends ☕️, watching movies/animes 🎬 or playing with my cat 😸
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430" style="margin-top:-100px;"/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
+
 
 <br />
 
