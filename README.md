@@ -42,17 +42,8 @@ Hi, I'm Rizwan Ahmed, a Full Stack Developer 🚀 from Karachi, Pakistan, Curren
 <img align="left" height="25" title="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img align="left" height="25" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="SQL" title="sql" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-
-
-
-
-
-
-
 <img align="left" alt="MongoDB" width="35" title="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Postgresql" height="25" title="postgresql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png" />
-<img alt="Terminal" height="25" title="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ![Rizwan's github stats](https://github-readme-stats.vercel.app/api?username=rizwanahmed19&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical)
 
